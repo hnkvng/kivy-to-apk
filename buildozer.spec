@@ -47,7 +47,7 @@ requirements = python3==3.7.6,hostpython3==3.7.6,kivy,kivymd,tinydb,datetime
 #presplash.filename = %(source.dir)s/data/presplash.png
 
 # (str) Icon of the application
-icon.filename = ./img/doctor.png
+icon.filename = ./img/doctor.jpg
 
 # (list) Supported orientations
 # Valid options are: landscape, portrait, portrait-reverse or landscape-reverse
